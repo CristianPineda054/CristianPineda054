@@ -10,5 +10,5 @@
     </p>
 </did>
 <footer>
-    <img width="100%" height="90px" src="https://tse4.mm.bing.net/th/id/OIP.H5npPMprBjZ1iV-RnRvkcQHaE7?pid=Api&P=0&h=180" alt="" srcset="">
+    <img width="100%" height="90px" src="https://static.vecteezy.com/system/resources/thumbnails/036/470/491/small/ai-generated-circuit-board-background-electronic-computer-hardware-technology-ai-generative-photo.jpg" alt="" srcset="">
 </footer>
